@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HoanggLB2k2.HoanggLB2k2" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=HoanggLB2k2.HoanggLB2k2" alt="visitor badge"/>
 
 ### Hi there 👋
 
